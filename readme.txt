@@ -1,15 +1,16 @@
-1.FUNCTIONS :
-   built in functions,
-   commonly used modules,
-   function definition and calling the function,
-   the return statments and void function,
-   scope and lifetime of variables,
-   default parameters.
+1.TUPLES AND SETS :
+   creating tuples,
+   basic tuple operations,
+   indexing and slicing in tuples,
+   built in functions used on tuples,
+   relation between tuples and lists,
+   relation between tuples and dictionaries.
 
-2.STRINGS :
-   creating and storing strings,
-   basic string operations,
-   accessing characters in string by index numbers,
-   string slicing and joining,
-   string methods
-   formatting strings.
+
+2.FILES :
+   types of files,
+   creating and reading text data,
+   file methods to read adn write data,
+   reading and writing binary files,
+   reading and writing CSV files.
+

@@ -1,0 +1,3 @@
+We are in class 
+We are in a Lab 
+We are in Python Lab
