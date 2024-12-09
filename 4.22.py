@@ -1,0 +1,11 @@
+file =open("myfile3.txt","w")
+file.write("hello there this is another fiilen\n")
+file.write("hello again once agian\n")
+file.close()
+
+file=open("myfile3.txt","r+")
+print("output of read function is :")
+content=file.read()
+print(content)
+print()
+file.close()
